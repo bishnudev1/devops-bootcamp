@@ -1,0 +1,24 @@
+Best Questions on Computer Networks
+
+1. Difference between Internet and Network.
+2. Discuss the Client-Server architecture.
+3. How data is transferred ? What's the role of IP Address here ?
+4. Define the works of PORT numbers. What's Reserved Port numbers ?
+5. Difference between LAN, MAN, WAN.
+6. Explain OSI Model in short.
+7. Why TCP/IP Model is more popular than OSI Model right now ?
+8. Make a short note in Networking Devices.
+9. What's Protocol ? Discuss about HTTP Protocol.
+10. Difference between TCP and UDP Protocol.
+11. When should we use Sockets ?
+12. HTTP is a Stateless Protocol but how it saves our session in Browsers ?
+13. Define Status Codes.
+14. How Email works ? ( SMTP & PP3 )
+15. Why is DNS the most important topic in Computer Networking ?
+16. What's Checksum ? Advantages of using HTTP Protocol. Why use HTTPS over HTTP ?
+17. Explain Control Plane and Packets.
+18. Difference between IPv4 and IPv6. Why still IPv4's better in some case ?
+19. What's Telnet ?
+20. What's FTP ? Is Annoymous FTP is better ? Why FTP is dead in 2023 ?
+21. Why Data Link Layer in OSI Model is important ?
+22. What's NAT ?
