@@ -1,3 +1,15 @@
 Best Questions on Git and Github.
 
 1. What's Git and Github ? Elaborate differences.
+2. Why do we use Git ?
+3. Advantages of Github Desktop Client.
+4. What are branches in Git ?
+5. What is Merge Conflict ? How do we resolve it ?
+6. Difference between Pull and Pull Command in Git.
+7. Elaborate the CRUD Commands of Git. ( Create-Read-Update-Delete of Branches ).
+8. How to check of a Branch's Status ?
+9. What is a Pull Request ?
+10. What's meaning by Forking a Repo ?
+11. What can I do by Cloning a Repo ?
+12. How to merge and create a Pull Request ?
+13. Do we need Git and Github to be an Open Source Contributor ?
