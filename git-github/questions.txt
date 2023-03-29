@@ -12,4 +12,7 @@ Best Questions on Git and Github.
 10. What's meaning by Forking a Repo ?
 11. What can I do by Cloning a Repo ?
 12. How to merge and create a Pull Request ?
+14. Why you shouldn't push your code directly to your "main" branch ?
 13. Do we need Git and Github to be an Open Source Contributor ?
+14. What are Git tags, and how do you use them to mark releases and versions?
+15. How do you use Git hooks to automate tasks, such as running tests or deploying code?

@@ -1,0 +1,13 @@
+Best Questions on Learning Linux for DevOps
+
+1. What is Linux, and how is it different from other operating systems?
+2. What are the different types of Linux distributions, and which one is suitable for DevOps?
+3. How do you install and configure a Linux system from scratch?
+4. What are the key components of a Linux system, such as the kernel, shell, and file system?
+5. How do you manage user accounts and permissions in Linux?
+6. What are the basic Linux commands, such as ls, cd, grep, and sed, and how do you use them?
+7. How do you work with files and directories in Linux, such as creating, moving, and deleting them?
+8. What is process management in Linux, and how do you monitor and control processes?
+9. What are system logs, and how do you use them to troubleshoot problems?
+10. How do you secure a Linux system, such as configuring firewalls, using SSH, and managing network interfaces?
+11. Why Linux is the most choices OS for DevOps ?

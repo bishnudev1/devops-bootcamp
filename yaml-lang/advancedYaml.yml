@@ -1,0 +1,24 @@
+
+# Reuse some properties in YAML
+
+likings: &likes
+  fav fruit: mango
+  dislikes: grapes
+
+person1:
+  name: Bishnudev Khutia
+  <<: *likes
+
+person2:
+  name: Bishnudev Khutia
+  <<: *likes
+  dislikes: strawberry # Overwrites the data
+
+
+school:
+  name: !!null Null
+  principal: !!null Null
+  school:
+    roll no:
+    age:
+    name:

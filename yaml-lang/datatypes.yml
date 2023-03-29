@@ -1,0 +1,78 @@
+# Strings
+
+myself: Bishnudev Khutia
+fruit: "apple"
+job: 'SWE'
+
+bio: |
+hey myself Bishnudev Khutia.
+I am a very cool dude.
+
+# Write a single line in multiple lines
+
+message: >
+this will
+all be 
+in one single line
+
+# Numbers
+
+number: 5473
+marks: 98.76
+
+# Boolean
+
+isTrue: Yes # yes, Y, y, true, True, TRUE
+taskCompleted: No # n, N, false, False, FALSE
+
+# Specifying the Type
+
+zero: !!int 0
+positiveNum: !!int 45
+negetiveNum: !!int -86
+binaryNum: !!int 0b11011
+octalNum: !!int 06574
+hexa: !!int 0x45
+commaValue: !!int +540_000
+
+marks: !!float 56.89
+infinite: !!float .inf
+
+isShown: !!bool No
+
+not a num: .nan
+
+# Null
+
+surname: !!null Null
+~: this is a null key
+
+# Dates and Times in YAML
+
+date: 2002-05-20
+
+# Maps
+
+student:
+  role:
+    age: 20
+    job: freelancer
+
+# Sets - Unique Values
+
+names: !!set
+  ? Bishnudev
+  ? Arnab
+  ? Sudip
+
+# Dictionary
+
+people: !!omap
+  - Bishnudev:
+      name: Bishnudev Khutia
+      age: 20
+      height: 58
+  - Arnab:
+      name: Arnab Metya
+      age: 21
+      height: 54

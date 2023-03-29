@@ -1,0 +1,39 @@
+
+# Key-Value Pair in YAML
+
+"Apple":"This is a Red Fruit"
+1:"This is my Roll Number"
+
+
+# Seperates the datatypes (---)
+---
+
+# Lists
+- New Delhi
+- Kolkata
+- Mumbai
+
+---
+
+# Block Pattern -> Indentation Format
+
+Cities:
+  - New Delhi
+  - Kolkata
+  - Mumbai
+
+---
+
+# List-Block Pattern
+
+Cities: [New Delhi, Kolkata, Mumbai]
+
+---
+
+# JSON Format
+
+{Mango: "Red Fruit", Session: "Summer"}
+
+# Ending the file (...)
+
+...
